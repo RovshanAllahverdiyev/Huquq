@@ -36,7 +36,17 @@ h1, h2, h3, h4, h5, h6{
     align-items: center;
     justify-content: center;
     background-color: #252525;
+    position: fixed;
+    width: 100%;
+    
 }
+
+.upper-btn a{
+    text-decoration: none;
+    font-size: 15px;
+    color: #fff;
+}
+
 
 .top-contact ul {
     margin: 0;
